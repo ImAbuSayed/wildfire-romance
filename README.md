@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wildfire-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Wildfire Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildfire-romance/) |
+| **Get License** | [Obtain a Music License for Wildfire Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildfire-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera, main te kho gaya
+> Vekheya jo tainu aake, main pagal ho gaya
+> Sari raat dekhan tainu, you’re the one I’m wanting
+> Dhadkan vi tez meri, you’re the one I’m calling
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
