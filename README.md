@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wildfire-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wildfire Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildfire-romance/) |
+| **Get License** | [Get License For Wildfire Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildfire-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `131ce47bab1d4c0518ff01e47c2311086caced24cec9903ae8aaf4dde30c0eae` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
